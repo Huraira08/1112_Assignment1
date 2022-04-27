@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "assignment-14d00"
+  },
+  "targets": {
+    "assignment-14d00": {
+      "hosting": {
+        "task3": [
+          "asg1task3-1112"
+        ]
+      }
+    }
+  }
+}
